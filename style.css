@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.remax{
+    color: orange;
+}
+.akg{
+    width: 40%;
+    float: left;
+    margin: 53px;
+    padding-left: 2%;
+}
+.akg img{
+    width: 100%;
+}
+.uisi{
+    background-image: url("images/header-bg.png");
+    background-size: 100%;
+}
+section{
+    height: 750px;
+}
+.a1{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+#c3{
+    margin-top: 180px;
+}

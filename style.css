@@ -5,8 +5,46 @@ body{
 h1{
     font-size: 40px;
 }
+section{
+    height: 730px;
+}
+.apple{
+    background-image: url("images/footer-bg.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.app{
+    text-align: center;
+}
+.samsung{
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100%;
+}
+.sam img{
+    width: 30%;
+    float: left;
+    margin: 40px 0 0 0;
+    padding-left: 35px;
+}
+.radme{
+    background-image: url("images/biography-bg.png");
+    background-size: 120%;
+    background-repeat: no-repeat;
+}
+.realme{
+    text-align: center;
+    background-image: linear-gradient(to right, #EC5095, #ED4B72);
+    margin: 0px 320px;
+    padding: 30px 0px;
+    border-radius: 10px;
+}
+.lonavo{
+    background-image: url("images/header-bg.png");
+    background-size: 100%;
+}
 .remax{
-    color: orange;
+    font-size: 50px;
+    color: #EC4C7A;
 }
 .akg{
     width: 40%;
@@ -18,20 +56,31 @@ h1{
     width: 100%;
 }
 .uisi{
-    background-image: url("images/header-bg.png");
-    background-size: 100%;
-}
-section{
-    height: 750px;
-}
-.a1{
     text-decoration: none;
-    background-color: orange;
+    background-image: linear-gradient(to right, #EC5095, #ED4B72);
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
     font-weight: 700px;
 }
+#a1{
+    margin-top: 150px;
+    margin-left: 95px;
+}
+#b2{
+    width: 500px;
+}
 #c3{
-    margin-top: 180px;
+    width: 500px;
+}
+#d4{
+    margin-top: 150px;
+}
+#e5{
+    text-align: center;
+    padding-top: 100px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
